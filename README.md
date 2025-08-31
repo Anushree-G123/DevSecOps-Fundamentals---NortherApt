@@ -1,2 +1,2 @@
 # DevSecOps-Fundamentals---NortherApt
-DevSecOps Learning Repo 📚 | Northern APT Course Notes + Demos
+Repo documenting my DevSecOps learning journey: fundamentals, tools, pipelines, and security best practices
